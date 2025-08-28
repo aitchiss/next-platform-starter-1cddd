@@ -39,3 +39,9 @@ netlify dev
 ```
 
 If your browser doesn't navigate to the site automatically, visit [localhost:8888](http://localhost:8888).
+
+## A little joke
+
+> **Why do programmers prefer dark mode?**
+>
+> Because light attracts bugs!
